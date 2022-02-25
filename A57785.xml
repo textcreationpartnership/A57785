@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Royal fishing revived wherein is demonstrated, from what causes the Dutch have upon the matter engrossed the fishing trade in His Majesties seas, wherein the principles of all the trades they drive in the world are chiefly founded : as also from what causes the English have lost the fishing trade, to the endangering the small remainder of the trades they yet enjoy : together with expedients by which the fishing trade may be redeemed by the English : and proposals for carrying on so great a work : humbly offered to the consideration of the king and Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57785</idno>
+            <idno type="STC">Wing R2128</idno>
+            <idno type="STC">ESTC R3473</idno>
+            <idno type="EEBO-CITATION">11790110</idno>
+            <idno type="OCLC">ocm 11790110</idno>
+            <idno type="VID">49170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ;547:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Royal fishing revived wherein is demonstrated, from what causes the Dutch have upon the matter engrossed the fishing trade in His Majesties seas, wherein the principles of all the trades they drive in the world are chiefly founded : as also from what causes the English have lost the fishing trade, to the endangering the small remainder of the trades they yet enjoy : together with expedients by which the fishing trade may be redeemed by the English : and proposals for carrying on so great a work : humbly offered to the consideration of the king and Parliament.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In editions of the Harleian miscellany in the Library of Congress (title varies slightly).</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisheries --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49170:1" rendition="simple:additions"/>
+            <pb facs="tcp:49170:1" rendition="simple:additions"/>
+            <p>THE Royal Fiſhing REVIVED.</p>
+            <p>Wherein is Demonſtrated, From what Cauſes the <hi>Dutch</hi> have upon the matter Engroſſed the Fiſhing Trade in His Majeſties Seas, wherein the Principles of all the Trades they drive in the World are chiefly founded: As alſo from what Cauſes the <hi>Engliſh</hi> have loſt the Fiſh<g ref="char:EOLhyphen"/>ing Trade, to the endangering the ſmall Remainder of the Trades they yet enjoy. Together with Expedients by which the Fiſhing Trade may be Redeemed by the <hi>Engliſh;</hi> and Propoſals for carrying on ſo great a Work.</p>
+            <p>Humbly offered to the Conſideration of the <hi>KING</hi> and <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49170:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49170:2"/>
+            <head>THE Royal Fiſhing REVIVED.</head>
+            <p>ADvantages the <hi>Dutch</hi> have in the Fiſhing Trade, with the Reaſons of them; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. Multitudes of Men, above any other Na<g ref="char:EOLhyphen"/>tion.</item>
+               <item>2. Cheapneſs of Building all ſorts of Ships for this Trade, above any other place.</item>
+               <item>3. Their Convenient Building Ships for this Trade, above any other place.</item>
+               <item>4. Greatneſs of Vent in Foreign Trade for all ſorts of Commodities, returned in barter for their Fiſh, above any other place.</item>
+               <item>5. Their excellency in Packing and Curing all
+<pb n="2" facs="tcp:49170:3" rendition="simple:additions"/>ſorts of Fiſh, (except Red-Herrings) above any other place.</item>
+            </list>
+            <div type="part">
+               <head>The Reaſons.</head>
+               <list>
+                  <item>1. Their multitudes of Mariners and Fiſhermen proceed not from the conveniency of their Coaſts, for all the Fiſh they take are generally upon the Coaſts of <hi>England, Scotland,</hi> and the <hi>Orchades;</hi> and ſo might be more conveniently caught by us: Nor from the conveniency of their Harbours; ours in number and excellency far exceeding theirs: But from the freedom that they give people of all Na<g ref="char:EOLhyphen"/>tions above any other place; whereby thoſe people enjoying what they deſire, and being kept in con<g ref="char:EOLhyphen"/>ſtant imployments, are no way ſubject to Sedition or Murmure againſt the State: to the incomparable ſtrengthening as well as inriching thereof.</item>
+                  <item>2ly. The cheapneſs of their building Ships for this Trade, proceeds 1. From the great quantities and cheapneſs of Timber they have down the <hi>Rhyne</hi> and <hi>Maze,</hi> as alſo out of <hi>Norway,</hi> and the <hi>Baltick</hi> Sea; in return of the Fiſh and other Commodities vented there by them. 2ly. Cheapneſs of Pitch, Tarr, Hemp, and Iron, <hi>&amp;c.</hi> above any other place, which are in great meaſures returned upon the pro<g ref="char:EOLhyphen"/>duct of their Fiſh. 3ly. Lowneſs for Intereſt of Money, above any other place.</item>
+                  <item>3ly. Their convenient building Ships for this Trade, is from the encouragement and freedom they give to all ſorts of Builders of all Nations, whereby
+<pb n="3" facs="tcp:49170:3"/>ingenuity and induſtry is improved, as alſo the Buil<g ref="char:EOLhyphen"/>ders, above any other place.</item>
+                  <item>4ly. The greatneſs of Vent of all ſorts of Com<g ref="char:EOLhyphen"/>modities, returned in product of the Fiſh, is from the lowneſs of their Cuſtoms for the ſame, and low<g ref="char:EOLhyphen"/>neſs of Intereſt Money; conveniency and cheapneſs of Shipping, above any other place.</item>
+                  <item>5ly. The excellency and reputation of Curing and Packing their Fiſh, proceeds from the carefull inſpection of the States of the <hi>United Netherlands,</hi> above any other place: and their Curing on Ship<g ref="char:EOLhyphen"/>board, and then Re-packing.</item>
+               </list>
+               <p>Theſe Advantages have been in proceſs of time ſo well improved by the <hi>Dutch,</hi> that they have not only gained to themſelves almoſt the ſole Fiſhing in his Majeſties Seas; but principally upon this account have very near beat us out of all our other moſt profitable Trades in all parts of the World. Nor have the <hi>Engliſh</hi> any reaſon to hope to retain the reſidue of thoſe Trades, which they yet enjoy, unleſs they may be relieved in the Fiſhing Trade, from theſe Diſadvantages and Inconveniences fol<g ref="char:EOLhyphen"/>lowing: which are,</p>
+               <list>
+                  <item>1. Scarcity of people: Although the Coaſt of <hi>England,</hi> with a limitation of five miles from it, will maintain more people than all the <hi>United Nether<g ref="char:EOLhyphen"/>lands.</hi>
+                  </item>
+                  <item>2ly. Dearneſs of building Ships for this Trade; ſo that a <hi>Dutch</hi> Ship of equal dimenſion, is built for half the price.</item>
+                  <item>
+                     <pb n="4" facs="tcp:49170:4" rendition="simple:additions"/>
+3ly. Inconvenient building of Shipping: ſo as a <hi>Dutch</hi> Ship of equal bigneſs, is ſailed with half the hands.</item>
+                  <item>4ly. Want of Vent for all ſorts of Commo<g ref="char:EOLhyphen"/>dities, returned in Barter for the Fiſh in Foreign Trade.</item>
+                  <item>5ly. The negligent and corrupt Curing of Fiſh by the <hi>Engliſh,</hi> (except Red-Herrings) whereby their Reputation is far leſs than thoſe that are Cured by the <hi>Dutch.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Reaſons.</head>
+               <list>
+                  <item>1. Scarcity of people upon the Coaſt of <hi>England,</hi> is occaſioned by our peopling the <hi>American</hi> Plan<g ref="char:EOLhyphen"/>tations, the re-peopling <hi>Ireland</hi> ſince the great Maſſacre there, the late great Plague in the year 1665. and the Law againſt Naturalization, which permits no Foreigner to partake equal freedom with the <hi>Engliſh</hi> in this Trade; and Corporations, which reſtrains the freedom of this Trade, to the very few Freemen of them.</item>
+                  <item>2ly. Dearneſs of Shipping for this Trade, pro<g ref="char:EOLhyphen"/>ceeds 1. From the dearneſs and ſcarcity of Timber in <hi>England.</hi> 2ly. From the Act of Navigation, which not only reſtrains the Importation of Timber, Pitch, Tarr, Hemp, and Iron, to theſe dear built Ships, and the Ships of the Natives of the places from whence they are had, whether they have Ships or not, but alſo it gives freedom to the <hi>Dutch</hi> to Import all ſorts of Manufactories made of theſe Growths, which they acquire for half the price the
+<pb n="5" facs="tcp:49170:4"/>
+                     <hi>Engliſh</hi> can; whereby the <hi>Engliſh</hi> Nation have wholly loſt the Trade for fitting up Ships, for this or any other Trade.</item>
+                  <item>3ly. The inconvenient building of Ships for this Trade, is from reſtraining the building of Ships to the <hi>Engliſh</hi> only, who are very few, and know no other way.</item>
+                  <item>4ly. The wanting of Vent for all ſorts of Com<g ref="char:EOLhyphen"/>modities, returned in Barter for Fiſh, proceeds 1. From the greatneſs of the Cuſtoms upon thoſe Commodities, which are twenty times more than in the <hi>United Netherlands.</hi> 2ly. The dearneſs of the Ships in which they muſt be vented. 3ly. The in<g ref="char:EOLhyphen"/>conveniency of thoſe Ships, compared with the <hi>Dutch,</hi> for any Foreign Trade with thoſe Commodi<g ref="char:EOLhyphen"/>ties. 4ly. The height of Intereſt of Money here in <hi>England,</hi> above the <hi>
+                        <g ref="char:V">Ʋ</g>nited Netherlands;</hi> ſo as be<g ref="char:EOLhyphen"/>ſides the height of Cuſtoms, thoſe Ships of the <hi>Engliſh</hi> being twice ſo dear, and ſailed with double the hands that thoſe of the <hi>
+                        <g ref="char:V">Ʋ</g>nited Netherlands</hi> are, and paying above ⅓ Intereſt more, the <hi>Engliſh</hi> Mer<g ref="char:EOLhyphen"/>chant is here neceſſarily incumbent to a threefold charge, more than the <hi>Dutch</hi> Merchant.</item>
+                  <item>5ly. The negligent and corrupt Curing of Fiſh, caught by the <hi>Engliſh,</hi> proceeds from the want of a conſtant Councel of Trade, which may inſpect and govern the Fiſhing Trade.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:49170:5" rendition="simple:additions"/>
+               <head>The Expedients whereby the <hi>Engliſh</hi> may Redeem the Fiſhing Trade.</head>
+               <p n="1">1. For a ſupply of Men upon all occaſions to carry on this great Work, it is propoſed, That it may be free for all ſorts of Foreigners to partake and enjoy equal freedom, with the natural Subjects of <hi>England,</hi> in their Perſons and Eſtates, in the Fiſhing Trade; and that all poſſible ſecurity and encourage<g ref="char:EOLhyphen"/>ment be given to all ſorts of Foreigners who ſhall aſſiſt us therein.</p>
+               <p n="2">2ly. That all Reſtraints by the Freedom of Cor<g ref="char:EOLhyphen"/>porations be taken away, and no perſon excluded in this Trade.</p>
+               <p n="3">3ly. That all ſorts of Begging perſons, and all other poor people, (not ſick or impotent) may be imployed therein.</p>
+               <p n="4">4ly. That all people Condemned for leſs Crimes than Blood, be compelled to Redeem their Crimes, and in ſome meaſure to make Compenſation by ex<g ref="char:EOLhyphen"/>traordinary labour in this Trade.</p>
+               <p n="5">5ly. That all perſons in Priſon for Debt, and not able to pay, may be imployed therein.</p>
+               <p n="6">6ly. That the Act of Navigation be Repealed, whereby all ſorts of Foreign Ships may be imployed
+<pb n="7" facs="tcp:49170:5"/>in this Trade: And that it be free to import Pitch, Tarr, Hemp, Iron and Timber, whereby the <hi>Engliſh</hi> may be enabled to imploy all thoſe hands in fitting up Ships for this Trade, as well as the <hi>Dutch.</hi>
+               </p>
+               <p n="7">7ly. That all Cuſtoms for Commodities returned for the Fiſh vented in Foreign parts, be taken off, and an equal Exciſe to be Impoſed in lieu thereof; ſo that as multitudes and concourſe of people in<g ref="char:EOLhyphen"/>creaſe, and by conſequence a greater Conſumption, his Majeſties Revenue will thereby be proportiona<g ref="char:EOLhyphen"/>bly increaſed, without any prejudice to this Trade.</p>
+               <p n="8">8ly. That the Statute <hi>De Donis Conditionalibus,</hi> may ſtand in force, ſo that Fines ſhall be no Bar to the Heirs in Tail, nor Recoveries to thoſe in Re<g ref="char:EOLhyphen"/>mainder; whereby a Stock as well in this Trade as others, of all thoſe Moneys which are ſpent in buy<g ref="char:EOLhyphen"/>ing and Mortgaging Land, will generate into a common Bank of Trade; and thoſe numerous com<g ref="char:EOLhyphen"/>panies of other Bankers, Uſurers, Scriveners, and Sollicitors, will be neceſſitated to ſeek better means of living; and thereby the vanity of Luxurious per<g ref="char:EOLhyphen"/>ſons, reſtrained to the bounds of their Eſtates: As alſo the Intereſt of Money will become as low here as in the <hi>United Netherlands.</hi>
+               </p>
+               <p n="9">9ly. Yet for encouraging Foreigners to inhabit and Plant, as well as Trade with us, it may be law<g ref="char:EOLhyphen"/>full for all Foreigners to Purchaſe Lands here, to them and their Heirs; whereby the Nation would be enriched as well as peopled; and whereby vaſt
+<pb n="8" facs="tcp:49170:6" rendition="simple:additions"/>Sums of Money which are now imployed by the <hi>Dutch</hi> at Intereſt, to the impoveriſhing the Nation, might be converted to the enriching of it.</p>
+               <p n="10">10ly. That all poſſible encouragement be given as well to Foreigners as Natives, for building Ships for this Trade, in <hi>Ireland, Virginia,</hi> and <hi>New-England.</hi>
+               </p>
+               <p n="11">11ly. That a conſtant Councel of Trade be erected by Parliament, which may inſpect this Trade; and during the Intervals (with his Ma<g ref="char:EOLhyphen"/>jeſties approbation) may make By-Laws untill the next Seſſion of Parliament.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:49170:6"/>
+               <head>Propoſals for carrying on this Great Work.</head>
+               <p n="1">1. That Commiſſioners be impowred by Act of Parliament, to enquire into all Abuſes and Deceits in the management and Government of Hoſpitals, and of all Concealments and Miſ-conver<g ref="char:EOLhyphen"/>ſions of any part of the Revenues thereof; and that care be taken for the future to improve the Revenues of the ſaid Hoſpitals to the beſt advantage; and that all ſuch Moneys concealed or miſ-imployed, toge<g ref="char:EOLhyphen"/>ther with the Improvements and Overplus, (over and above what ſhall be neceſſarily laid out for the Maintenance and Repairs of the ſaid Hoſpitals, <hi>&amp;c.</hi>) may be brought into his Majeſties Bank for carrying on the Royal Fiſhing.</p>
+               <p n="2">2ly. That the ſaid Commiſſioners enquire what Sums of Moneys at any time have been given to Charitable Uſes, and are concealed, or have been miſ-imployed by any perſon or perſons to whoſe Truſt the ſame were committed: And that all ſuch Moneys may be brought into the Bank for carrying on the Fiſhing.</p>
+               <p n="3">3ly. That one years value of the Annual Aſſeſſ<g ref="char:EOLhyphen"/>ments to the Poor, may be advanced by the re<g ref="char:EOLhyphen"/>ſpective Pariſhes of <hi>England,</hi> to be imployed in buy<g ref="char:EOLhyphen"/>ing and building convenient Houſes, and for a Stock in ſetting the Poor at Work, to carry on the Royal
+<pb n="10" facs="tcp:49170:7" rendition="simple:additions"/>Fiſhing: By means whereof the charge of main<g ref="char:EOLhyphen"/>taining the Poor in all Pariſhes, will proportionally leſſen, to the univerſal eaſement and benefit of the whole Nation.</p>
+               <p n="4">4ly. That ſome Reaſons for altering or repeal<g ref="char:EOLhyphen"/>ing the Statute of 43 <hi>Eliz. c.</hi> 2. intituled, <hi>Who ſhall be Overſeers for the Poor, their Office, Duly and Accompts,</hi> may be conſidered, for the benefit of the Royal Fiſhing.</p>
+               <p n="5">5ly. That the Children of all lazie and idle per<g ref="char:EOLhyphen"/>ſons, living upon Foreſts, Waſts and Chaces, may be imployed in the Royal Fiſhing, and that thoſe Waſts may be improved for a Publique Good, and the Revenue ariſing thereby imployed for carrying on the Royal Fiſhing.</p>
+               <p n="6">6ly. That all Victuallers, Haglers, Badgers, <hi>&amp;c.</hi> formerly Licenſed by Mayors and Juſtices of the Peace, <hi>&amp;c.</hi> may be hereafter Licenſed by Com<g ref="char:EOLhyphen"/>miſſioners impowred by Act of Parliament, and the Fees and Profits ariſing thereby, be likewiſe im<g ref="char:EOLhyphen"/>ployed for carrying on the Royal Fiſhing.</p>
+               <p n="7">7ly. Whereas there was obtained beyond Sea, a Grant from his Majeſty for 31 years, of the Home<g ref="char:EOLhyphen"/>vent of Coals from the River of <hi>Tyne,</hi> upon pretence of 500 <hi>l.</hi> Fine, and 1838 <hi>l.</hi> 12 <hi>s.</hi> Annual Rent, when as the ſame might have been Leaſed out by his Majeſty for near 10000 <hi>l. per annum,</hi> if his Majeſty had been rightly informed of the value thereof;
+<pb n="11" facs="tcp:49170:7"/>wherefore it is propoſed, That by his Majeſties permiſſion the ſaid Grant may be vacated in Parlia<g ref="char:EOLhyphen"/>ment: and his Majeſty be at liberty to Let it for the beſt advantage. And that his Majeſty will be graciouſly pleaſed, That the Improvement of the Rent thereof may go towards the ſupport of the Royal Fiſhing.</p>
+               <p n="8">8ly. That like Duties may be Impoſed upon the vent of Coles from <hi>Sunderland,</hi> as are at <hi>Newcaſtle,</hi> to be impolyed in the Royal Fiſhing.</p>
+               <p n="9">9ly. That all ſuch Sum or Sums of Money which ſince his Majeſties Reſtauration hath been raiſed and collected upon Subſcriptions and Benevolencies for the uſe of the Fiſhery, and do ſtill remain in the hands of the Collectors, Treaſurers and others who ought to Account for the ſame, may be forthwith reduced into his Majeſties Bank, for carrying on the Royal Fiſhing.</p>
+               <p n="10">10ly. That his Majeſty will be Graciouſly plea<g ref="char:EOLhyphen"/>ſed to Grant, That all diſcoveries within his Maje<g ref="char:EOLhyphen"/>ſties Gift, not yet diſcovered nor Granted away by his Majeſty, (after a reaſonable and fitting reward ſecured to the Diſcoveror or Diſcoverors out of the ſame) ſhall go towards the ſupport of the Royal Fiſhing.</p>
+               <p n="11">11ly. That all Houſes built upon new Foundations within the City and Suburbs of <hi>London</hi> ſince the year
+<pb n="12" facs="tcp:49170:8" rendition="simple:additions"/>1657. (except ſuch Houſes as have been Conſumed by Fire) may pay a Fine to the value of one years Rent, to be imployed towards the carrying on the Royal Fiſhing.</p>
+               <p n="12">12ly. That his Majeſty will be pleaſed to Grant, that all Fines and Forfeitures not already Granted away by his Majeſty, may go towards the carrying on the Royal Fiſhing.</p>
+               <p>
+                  <hi>It is Humbly deſired, That theſe Propoſals may be examined and debated, and if all or any of them may be found Uſefull for carrying on this great and profitable Work, further means ſhall be Humbly offered for promoting the ſame.</hi>
+               </p>
+               <pb facs="tcp:49170:8" rendition="simple:additions"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
